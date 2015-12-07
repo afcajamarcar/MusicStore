@@ -1,0 +1,2 @@
+serviceClass: co.edu.unal.musicstore.client.ProductService
+path: 8ED03883CD14E7400794CBED0AFC588E.gwt.rpc

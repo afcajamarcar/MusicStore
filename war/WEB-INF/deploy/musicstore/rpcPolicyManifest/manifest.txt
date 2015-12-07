@@ -1,0 +1,3 @@
+# Module musicstore
+# RPC service class, partial path of RPC policy file
+co.edu.unal.musicstore.client.ProductService, 8ED03883CD14E7400794CBED0AFC588E.gwt.rpc
